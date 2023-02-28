@@ -1,1 +1,1 @@
-# Binary-Battalion
+#Stock Management System
